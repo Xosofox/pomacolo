@@ -6,7 +6,7 @@
     }
     var original_console_log = console.log;
     var ul = document.createElement("ul");
-    ul.style.position = "absolute";
+    ul.style.position = "fixed";
     ul.style.bottom = 0;
     ul.style.right = 0;
     body.appendChild(ul);
