@@ -1,0 +1,23 @@
+{
+    "name": "pomacolo",
+    "main": "pomacolo.min.js",
+    "version": "1.0.0",
+    "homepage": "https://github.com/Xosofox/pomacolo",
+    "authors": [
+        "Peter Dietrich <xosofox@gmail.com>"
+    ],
+    "description": "POor MAn's COnsole.LOg",
+    "keywords": [
+        "console.log",
+        "console",
+        "log"
+    ],
+    "license": "WTFPL",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
